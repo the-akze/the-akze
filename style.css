@@ -10,8 +10,47 @@ html, body {
 
 .soontextcontainer {
     text-align: center;
-    font-size: 100%;
+    font-size: 400%;
     width: 100%;
     min-height: 100%;
     /* background-image: linear-gradient(); */
+}
+
+.soontextcontainer h1 {
+    display: block;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    animation: soonTextAnim 8s ease-in-out infinite;
+    background-image: linear-gradient(to left, rgb(34, 147, 212), rgb(212, 150, 34));
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+
+}
+
+@keyframes soonTextAnim {
+    0% {
+        transform: translate(-50%, -50%) scale(1.02, 1.02);
+    }
+
+    25% {
+        transform: translate(-50%, -50%) scale(.98, .98);
+    }
+
+    50% {
+        transform: translate(-50%, -50%) scale(1.02, 1.02);
+    }
+
+    75% {
+        transform: translate(-50%, -50%) scale(.98, .98);
+    }
+
+    100% {
+        transform: translate(-50%, -50%) scale(1.02, 1.02);
+    }
+}
+
+body {
+    background-image: linear-gradient(to bottom right, #3f3f3f, #000000)
 }
