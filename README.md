@@ -16,4 +16,4 @@
 	* Lo-Fi
 	* Hip-Hop
 	* Synthwave
-	### Listen to 🎵 [***Akze Music***](https://akze.repl.co/music.html)!
+	### Listen to 🎵 [***Akze Music***](https://www.theakze.xyz/music.html)!
