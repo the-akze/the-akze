@@ -9,7 +9,7 @@
 	* Java
 	* C++
 	* Arduino
-	### Web 🌐 [akze.repl.co](https://akze.repl.co/)
+	### Web 🌐 [www.theakze.xyz](https://www.theakze.xyz/)
 
 * ## 🎧 Music Producer
 	* Electronic
