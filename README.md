@@ -7,7 +7,8 @@
 	* CSS
 	* C#
 	* Java
-	* C++ <sup><sub>(basics)</sub></sup>
+	* C++
+	* Arduino
 	### Web 🌐 [akze.repl.co](https://akze.repl.co/)
 
 * ## 🎧 Music Producer
