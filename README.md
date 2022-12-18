@@ -17,3 +17,6 @@
 	* Hip-Hop
 	* Synthwave
 	### Listen to 🎵 [***Akze Music***](https://www.theakze.xyz/music.html)!
+
+* ## 🧊 3D Artist
+	* Blender
